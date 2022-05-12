@@ -1,1 +1,1 @@
-description: Case Study on Poverty Coasta Rico.
+Case Study on Poverty Coasta Rico.
